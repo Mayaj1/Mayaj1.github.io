@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-	<script src="index.js"></script>
-  <iframe src="https://calendar.google.com/calendar/embed?src=8aedum0og7ea32o189l8ifqa9av6kknq%40import.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=bWFyaWVmbG91cnlAaWNsb3VkLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4tZ2IuZ2cjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=OGFlZHVtMG9nN2VhMzJvMTg5bDhpZnFhOWF2NmtrbnFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%2333B679&color=%230B8043&color=%239E69AF" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   </body>
 </html>
