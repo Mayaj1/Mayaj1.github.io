@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Zoe's Calendar</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<script src="index.js"></script>
+  <iframe src="https://calendar.google.com/calendar/embed?src=8aedum0og7ea32o189l8ifqa9av6kknq%40import.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </body>
+</html>
